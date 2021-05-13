@@ -5,7 +5,7 @@
 ### 使用方式
 
 ```bash
-git clone https://github.com/Dustyposa/rasa_bot_front_dist.git
+git clone --depth 1 https://github.com/Dustyposa/rasa_bot_front_dist.git
 ```
 
 打开 `index.html` 即可。
